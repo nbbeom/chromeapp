@@ -1,3 +1,7 @@
-# JS Basics
+# chrome app
 
-Repository for the JS-Basics Nomad Academy Course. Cloning a Productivity App with VanillaJS
+노마드코더 강의를 보고 처음 따라 만든 크롬앱
+
+- 시간 기능
+- to do 기능
+- 이름 저장
